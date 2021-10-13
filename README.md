@@ -6,7 +6,7 @@ This is a to do list to keep track of all the tasks that you wish to do. You can
 
 # Usage
 
-This will help in pkeeping track of the tasks you need to complete.
+This will help in keeping track of the tasks you need to complete.
 
 # Contributors
 
